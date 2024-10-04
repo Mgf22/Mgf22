@@ -1,8 +1,8 @@
-# Hi there GitHub stalkers
+# Hi there!!
 
 ---
 
-# **Player Info** *(Junior Developer)*
+# **Personal Info** 
 
 - **Name:** Mateus Fernandes
 - **Age:** 22
@@ -13,7 +13,7 @@
 ---
 
 
-# **Player Stats**
+# **Personal Skills**
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> **React**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" height="20"/> **Angular**
