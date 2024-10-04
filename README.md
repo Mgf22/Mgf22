@@ -2,7 +2,7 @@
 
 ---
 
-# **Player Info** – *(Junior Developer)*
+# **Player Info** *(Junior Developer)*
 
 - **Name:** Mateus Fernandes
 - **Age:** 22
